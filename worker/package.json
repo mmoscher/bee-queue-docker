@@ -1,0 +1,16 @@
+{
+  "name": "bee-queue-worker",
+  "version": "1.0.0",
+  "description": "BeeQueue worker",
+  "main": "worker.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "bee-queue",
+    "worker"
+  ],
+  "dependencies": {
+    "bee-queue": "^1.2.2"
+  }
+}

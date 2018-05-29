@@ -1,0 +1,16 @@
+{
+  "name": "bee-queue-producer",
+  "version": "1.0.0",
+  "description": "BeeQueue job producer",
+  "main": "producer.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "bee-queue",
+    "worker"
+  ],
+  "dependencies": {
+    "bee-queue": "^1.2.2"
+  }
+}
